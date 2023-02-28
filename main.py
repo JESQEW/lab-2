@@ -1,3 +1,5 @@
+"#"
+#frewrfr3wtg
 def s():
     x=input("ввод пароля")
     y=input("повтор пароля")
